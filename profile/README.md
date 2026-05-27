@@ -11,7 +11,7 @@ The file structure on most DTC base station devices is:
      └── inference_engine/
 ```
 
-## Network Setup for Control of Spot through the onboaard computer (HP Z2)
+## Network Setup for Control of Spot through the onboard computer (HP Z2)
 
 ### Settings on Spot
 
